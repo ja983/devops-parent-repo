@@ -1,0 +1,12 @@
+[submodule "project-1"]
+	path = project-1
+	url = https://github.com/ja983/Elevate-Labs-Project-1.git
+[submodule "project-2"]
+	path = project-2
+	url = https://github.com/ja983/Elevate-Labs-Project-2.git
+[submodule "flask-cicd-demo"]
+	path = flask-cicd-demo
+	url = https://github.com/ja983/flask-cicd-demo.git
+[submodule "gitops-demo-manifests"]
+	path = gitops-demo-manifests
+	url = https://github.com/ja983/gitops-demo-manifests.git
